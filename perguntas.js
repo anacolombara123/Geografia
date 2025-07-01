@@ -1,5 +1,5 @@
 criaCartao(
-    'Geografial',
+    'Geografia',
     'Qual é o país que possui o maior número de vizinhos terrestres do mundo?',
     'China'
 )
