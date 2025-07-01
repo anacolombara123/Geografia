@@ -1,33 +1,33 @@
 criaCartao(
-    'Marvel',
-    'Qual é o personagem, conhecido por ser sarcástico, engraçado, violento e imprevisível, que voltou para o Universo Marvel após a Disney comprar a Fox na última década?',
-    'Deadpool'
+    'Geografial',
+    'Qual é o país que possui o maior número de vizinhos terrestres do mundo?',
+    'China'
 )
 
 criaCartao(
-    'Marvel',
-    'No filme Vingadores: Ultimato, quais são as jóias do infinito que o Capitão América viaja no tempo para devolver aos seus lugares de origem?',
-    'Pedra do Tempo, Pedra da Realidade e Pedra do Poder'
+    'Geografia',
+    'Qual é o único continente onde não há nenhum deserto verdadeiro?',
+    'Europa'
 )
 
 criaCartao(
-    'Marvel',
-    'Qual foi o primeiro filme da Marvel?',
-    'Homem de Ferro'
+    'Geografia',
+    'Qual é o rio mais extenso do mundo, de acordo com medições mais recentes?',
+    'Amazonas'
 )
 
 criaCartao(
-    'Marvel',
-    'Qual o significado do nome Marvel?',
-    'Maravilha'
+    'Geografia',
+    'Qual é a capital localizada na maior altitude do mundo?',
+    'La Paz (Bolívia)'
 )
 criaCartao(
-    'Marvel',
-    'Quais foram os primeiros vingadores?',
-    'Homem-Formiga, Homem de Ferro, Thor, Vespa e Hulk'
+    'Geografia',
+    'Qual é o nome da camada da Terra onde ocorrem os terremotos e que abriga as placas tectônicas?',
+    'Litosfera'
 )
 criaCartao(
-    'Marvel',
-    'No filme "Homem-Aranha" de 2002, onde estava Peter Parker quando foi picado pela aranha que o transformou?',
-    'Em uma visita ao Laboratório de Genética na Columbia University, NY'
+    'Geografia',
+    'Qual o estado do Brasil que faz mais divisa com outros estados?',
+    'Bahia'
 )
